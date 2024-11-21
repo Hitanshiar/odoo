@@ -4,7 +4,7 @@
 Store database-specific configuration parameters
 """
 
-import uuid
+import uud
 import logging
 
 from odoo import api, fields, models, _
